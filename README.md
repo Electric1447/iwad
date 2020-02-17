@@ -41,4 +41,5 @@
 | Name| Filename| Version| Size| Compressed Size| MD5 Checksum |
 |-----|--------:|--------|----:|---------------:|--------------|
 | [Chex Quest](chex.7z) | chex.wad | **1.0** | 12,361,532| 2,787,212 | 25485721882b050afa96a56e5758dd52 |
+| [Chex Quest 2](chex2.7z) | chex2.wad | **1.0** | 7,585,664| 2,241,989 | fdc4ffa57e1983e30912c006284a3e01 |
 | [Chex Quest 3](chex3.7z) | chex3.wad | **1.0** | 18,458,493| 4,503,928 | bce163d06521f9d15f9686786e64df13 |
