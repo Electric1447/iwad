@@ -10,6 +10,7 @@
 | [Doom Shareware](doom1.7z) | doom1.wad | **1.9** | 4,196,020 | 1,361,708 | f0cefca49926d00903cf57551d901abe |
 | [Doom Registered](doom.7z) | doom.wad | **1.9** | 11,159,840 | 3,137,713| 1cd63c5ddff1bf8ce844237f580e9cf3 |
 | [ French Doom II](doom2f.7z) | doom2f.wad | **1.8** | 14,607,420 | 4,553,627 | 3cb02349b3df649c86290907eed64e7b |
+| [SIGIL](sigil.7z) | **<sup>SIGIL_v1_21.wad<br>SIGIL_COMPAT_v1_21.wad</sup>** | **1.21** | 4,640,210<br>4,634,157 | 3,248,419 | 743d6323cb2b9be24c258ff0fc350883<br>573f3f178c76709f512089ed15484391 |
 
 
 ### Heretic 
